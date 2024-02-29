@@ -7,3 +7,7 @@ services:
     ports:
       - 80:5000
     restart: always
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 4d77072e8022dec23b521a0baece43d8558121d5
